@@ -8,13 +8,13 @@ Supports create, update, delete, and search operations via REST API.
 ## Setup Instructions
 
 1. **Clone repo**
-git clone https://github.com/suryakantkakkar/address-book.git
-cd modular-address-book
+   git clone https://github.com/suryakantkakkar/address-book.git
+   cd modular-address-book
 
-2. **Install dependencies**  
+3. **Install dependencies**  
 npm install
 
-3. **Run server**  
+4. **Run server**  
 npm start
 
 ## API Endpoints
